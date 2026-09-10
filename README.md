@@ -59,5 +59,5 @@ The test suite was designed and executed utilizing industry-standard testing met
 ---
 
 ## 👤 Author & QA Leadership
-* **Prepared By:** Muhammad Umair (QA Team Lead)[cite: 5]
-* **Target Environment:** `app.vwo.com` (Staging / QA)[cite: 5]
+* **Prepared By:** Muhammad Umair
+* **Target Environment:** `app.vwo.com` (Staging / QA)
